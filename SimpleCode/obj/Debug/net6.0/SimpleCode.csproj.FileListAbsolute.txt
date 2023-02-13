@@ -1,0 +1,15 @@
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\bin\Debug\net6.0\SimpleCode.exe
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\bin\Debug\net6.0\SimpleCode.deps.json
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\bin\Debug\net6.0\SimpleCode.runtimeconfig.json
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\bin\Debug\net6.0\SimpleCode.dll
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\bin\Debug\net6.0\SimpleCode.pdb
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\obj\Debug\net6.0\SimpleCode.csproj.AssemblyReference.cache
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\obj\Debug\net6.0\SimpleCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\obj\Debug\net6.0\SimpleCode.AssemblyInfoInputs.cache
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\obj\Debug\net6.0\SimpleCode.AssemblyInfo.cs
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\obj\Debug\net6.0\SimpleCode.csproj.CoreCompileInputs.cache
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\obj\Debug\net6.0\SimpleCode.dll
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\obj\Debug\net6.0\refint\SimpleCode.dll
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\obj\Debug\net6.0\SimpleCode.pdb
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\obj\Debug\net6.0\SimpleCode.genruntimeconfig.cache
+C:\Users\anand.krishna\source\repos\SimpleCode\SimpleCode\obj\Debug\net6.0\ref\SimpleCode.dll
